@@ -1,3 +1,7 @@
+# micro-service architecture
+
+![document](https://github.com/santoshsekhar/javaMicroServices/blob/master/micro-services%20architecture.pdf)
+
 # Requirements
 
 - Java 1.8
@@ -7,3 +11,4 @@
 
 - Open every folder on a different project window using IDE.
 - Click on run as boot application.
+
