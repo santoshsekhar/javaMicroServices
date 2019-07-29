@@ -1,6 +1,6 @@
 # micro-service architecture
 
-![document](https://github.com/santoshsekhar/javaMicroServices/blob/master/micro-services%20architecture.pdf)
+![document](https://github.com/santoshsekhar/javaMicroServices/blob/master/screenshot.png)
 
 # Requirements
 
